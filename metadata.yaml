@@ -1,0 +1,36 @@
+_repo: A-School-History-of-the-Great-War_17211
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: McKinley, Albert E. (Albert Edward)
+    birthdate: 1870
+    deathdate: 1936
+    gutenberg_agent_id: '7226'
+    url: http://www.gutenberg.org/2009/agents/7226
+  - agent_name: Coulomb, Charles Augustin
+    gutenberg_agent_id: '7227'
+    url: http://www.gutenberg.org/2009/agents/7227
+  - agent_name: Gerson, Armand Jacques
+    birthdate: 1881
+    gutenberg_agent_id: '7228'
+    url: http://www.gutenberg.org/2009/agents/7228
+description: ''
+gutenberg_bookshelf:
+- Children's History
+- World War I
+gutenberg_issued: '2005-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17211'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+title: A School History of the Great War
+url: http://www.gutenberg.org/ebooks/17211
